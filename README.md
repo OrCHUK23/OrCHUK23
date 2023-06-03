@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![LinkedIn](lkdn.png)](https://www.linkedin.com/in/or-hen-24b3691b3)
+
+
 <!--
 **OrCHUK23/OrCHUK23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
