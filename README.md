@@ -1,4 +1,4 @@
-**Hi, I'm Or** 👨‍💼
+**Hi, I'm Or**.
 
 *I'm at the beginning of my journey as a DevOps engineer and I always like to learn new things.* :technologist:
 <br>
